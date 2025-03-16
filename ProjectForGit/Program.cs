@@ -8,7 +8,7 @@ namespace ProjectForGit
         {
             Console.WriteLine("Hello World!");
 
-            //изменения
+            //изменения для гитхаб
 
             // сделали снова изменения не в той ветке
 
