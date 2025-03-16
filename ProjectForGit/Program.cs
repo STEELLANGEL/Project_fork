@@ -8,6 +8,8 @@ namespace ProjectForGit
         {
             Console.WriteLine("Hello World!");
 
+            //изменения
+
             // сделали снова изменения не в той ветке
 
             // сделал изменения для 1123 задачи
